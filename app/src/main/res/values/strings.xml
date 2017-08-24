@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wer kommt zum Training?</string>
+    <string name="login_name_input">Name</string>
+    <string name="login_button">Los</string>
+</resources>
